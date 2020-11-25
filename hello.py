@@ -1,2 +1,3 @@
-print("Hello Világ!!!") 
-print("**************")
+print("******************")
+print("* Hello Világ!!! *") 
+print("******************")

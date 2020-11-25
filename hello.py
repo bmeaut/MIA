@@ -1,1 +1,4 @@
-print("Hello Bence!!!") 
+print("******************")
+print("* Hello Bence!!! *") 
+print("******************")
+

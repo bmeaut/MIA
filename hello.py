@@ -1,3 +1,6 @@
 print("******************")
 print("* Hello Világ!!! *") 
+print("* Hello World!!! *") 
+print("* Hallo Welt!!!  *")
+print("*Bonjour le monde!*")
 print("******************")
